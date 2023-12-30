@@ -1,9 +1,22 @@
 * {
     background-color: lightskyblue;
+    color: rgb(128, 109, 7);
 }
 
 .main_title {
-    color: rgb(175, 152, 22);
+    color: rgb(201, 173, 15);
     text-align: center;
     font-size: 42px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+.ingredients {
+
+}
+
+.steps {
+
 }
